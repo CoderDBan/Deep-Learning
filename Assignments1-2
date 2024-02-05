@@ -1,0 +1,122 @@
+Assignment1: 
+
+Question: 
+
+The assignment is based on a Deep Feedforward neural network. The assignment template is available: DL_Assignment_Template.ipynbDownload DL_Assignment_Template.ipynb
+1. Students must use the same template and upload the Jupyter Notebook with outputs and its corresponding PDF. 
+2. Students can also choose to use Google Colab to work on the project. 
+3. Data need not be uploaded along with the submission. 
+4. Students are expected to submit the updated Jupyter Notebook with the outputs + the final ipynb notebook file converted as PDF, with proper formatting and alignment. If the assignment has incomplete output or alignment and comments are not written appropriately, marks will be deducted from the overall score. 
+5. Partial code and partial output will be evaluated and marks will be awarded as per the PDF file. 
+6. The naming convention for the file to be uploaded: DL_assignment_1_group##
+7. Use Tensorflow / Keras for constructing Deep Neural Network architecture and model building.
+8. Any sort of plagiarism will be dealt with very seriously. Zero (0) marks will be awarded in such scenarios.
+9. All late Submissions will incur a penalty of (-2) marks. 
+10. For any queries on the assignment, write in the discussion forum.
+11. Do not use CNN/RNN for this assignment.
+12. Use only DNN or dense layers from Keras. Refer to Keras documentation on dense layer for further help regarding the library. 
+
+DATASETS Choices:
+
+Students are free to use any one of the following datasets for their work implementation.
+
+Use the built-in dataset from the Tensorflow. The link given on the page can be used for understanding the data.
+
+ 
+
+The students are free to select any one of the following datasets. 
+Use the built-in dataset from the Tensorflow. The link given on the page can be used for understanding the data.
+
+ Dataset Used Link - https://www.tensorflow.org/datasets/catalog/cats_vs_dogs
+
+
+Assignment2:
+
+Question: 
+Part A: Literature Exploration and Comparison
+
+Objective: Explore the application of CNN/RNN/Transformer networks in specific domains, identify three significant papers, and conduct a comparative analysis.
+
+Instructions:
+
+Choose an Application Area: Select an application domain from the following list:
+Vehicle Number Plate Identification
+Medical Image Diagnosis
+Speech Recognition
+Speech Translation
+Financial Forecasting
+Fraud Detection
+Sentiment Analysis in Social Media
+Autonomous Navigation for Robots
+Gesture Recognition for Human-Computer Interaction
+Energy Consumption Prediction
+Wildlife Classification
+Real-time Language Translation
+Human Activity Recognition from videos 
+Video Classification
+Expression Recognition from images
+
+Identify Three Papers: Select three research/journal papers from reputed sources like IEEE/Springer or ACM that focus on the application of CNN/RNN/Transformer networks in your chosen domain. Upload all three PDFs as individual files on Canvas.
+
+Create a Comparison Table: Compare the three papers and present your findings in a table with the following titles:
+Group Number, member names, and BITS ID
+
+Domain
+PAPER 1, PAPER 2, PAPER 3 (with subheadings: Title, Authors, Year, Network used, Depth of the network, Network application (e.g., feature engineering, classification, regression), Loss function, Evaluation/Performance metric, Dataset used, URL if public dataset) [*Reference Comparison Table is given below]
+Conclude: End the comparison with a proper conclusion highlighting your observations. Justify the choice of one paper over the others for implementation in Part B. 
+Submission: Upload the table as one PDF.
+
+Expected Comparison Table
+
+Group Number, member names and BITS ID
+
+Domain
+
+PAPER 1
+
+PAPER 2
+
+PAPER 3
+
+Title of the paper
+
+Authors
+
+Year of publication
+
+Network used
+
+Depth of the network
+
+How is the network helping the overall task? eg: feature engg or classification or regression or all  
+
+Loss function used
+
+Evaluation / Performance metric used
+
+Name of Dataset used. If a public dataset, provide the URL.
+
+Conclusion: You must end the comparison with a proper conclusion highlighting your observations. Justify the choice of the journal over the others for the implementation in part B. 
+
+ 
+
+Part B: Implementation
+
+Objective: Implement one of the papers chosen in Part A using Python TensorFlow Keras Libraries.
+
+Instructions:
+
+Implement the Paper: Utilize the methodologies or algorithms detailed in your chosen paper. Ensure that the URL for the dataset is mentioned clearly.
+Code Submission: Upload the Python .ipynb file. Download the .ipynb file as a PDF, ensuring all outputs are clearly displayed. ZIP files are not accepted.
+Assignment Template: Use the provided DL_Assignment2_Template.ipynb  Download DL_Assignment2_Template.ipynbfile or Google Colab for your work.
+File Naming Convention: DL_assignment_2_group##.
+Libraries: Use TensorFlow/Keras
+Plagiarism & Late Submissions: Any plagiarism will result in zero marks. Late submissions incur a penalty of (-2) marks.
+ 
+
+Additional Instructions:
+
+Data need not be uploaded with the submission.
+Submit the updated Jupyter Notebook with outputs + the final .ipynb notebook file converted as PDF, with proper formatting and alignment. Incomplete output, misalignment, or lack of comments may result in mark deductions.
+If the given template is not followed, ZERO marks will be awarded.
+For any queries, use the discussion forum.
